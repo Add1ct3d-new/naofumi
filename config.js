@@ -1,9 +1,9 @@
 module.exports = {
-    token: "", // Discord bot tokeninizi buraya girin
-    prefix: "n.", // Bot prefix'ini buraya girin
-    botStatus: "Tate No Yuuusha", // Bot durumunu buraya girin
-    ownerID: "", // Bot sahibinin Discord ID'sini buraya girin
-    logChannelId: "", // Log kanalının ID'sini buraya girin
+    token: "MTM4OTUyODU3MDA2NTU4ODIzNQ.GJ3cGd.F3Wc8KtBzX6Ggsd-NocXxCnRo9BysigVUJC89c", // Discord bot tokeninizi buraya girin
+    prefix: "t!", // Bot prefix'ini buraya girin
+    botStatus: "TRKPIX'İ DENETLİYOR", // Bot durumunu buraya girin
+    ownerID: "1028693683173855354", // Bot sahibinin Discord ID'sini buraya girin
+    logChannelId: "1389528393481060462", // Log kanalının ID'sini buraya girin
     website: "https://oktaydev.online", // Bot web sitesi URL'si (opsiyonel)
     embedColor: "#5865F2", // Varsayılan embed rengi
     embedErrorColor: "#ED4245", // Hata embedlerinin rengi
